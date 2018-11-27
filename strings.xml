@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Traffic Flow Count</string>
+    <string name="sheetno">sheetno</string>
+    <string name="sheet_no_view">Sheet No.</string>
+    <string name="day">Day</string>
+    <string name="traffic_flow_count">Traffic Flow Count</string>
+    <string name="time_to">To</string>
+    <string name="date">Date</string>
+    <string name="time_from">Time</string>
+    <string name="weather">Weather</string>
+    <string name="street_name">Street</string>
+    <string name="position_A">Position A</string>
+    <string name="position_B">Position B</string>
+    <string name="start_btn">Start</string>
+    <string name="title_activity_count__car">Count_Car</string>
+    <string name="stop_btn">Stop&amp;Save</string>
+    <string name="restart_btn">Restart</string>
+    <string name="car_name">car name</string>
+    <string name="count_cars">count cars</string>
+
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="input_en_language">Input EN language.</string>
+</resources>

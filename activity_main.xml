@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main2Activity"
+    android:gravity="center"
+    android:background="@mipmap/backmain"
+    android:orientation="vertical"
+    >
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:contentDescription="TODO"
+        app:srcCompat="@mipmap/images"
+        tools:ignore="ContentDescription,HardcodedText,MissingConstraints"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="143dp"
+        tools:srcCompat="@mipmap/images" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/traffic_flow_count"
+        android:gravity="center"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        android:textColor="@android:color/holo_blue_bright"
+        />
+</LinearLayout>
